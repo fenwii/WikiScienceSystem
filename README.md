@@ -53,6 +53,7 @@ WikiScienceSystem  维基科学体系，普及科学体系，常识
 环境科学环境研究｜环境社会科学｜生物伦理学｜社会生物学｜图书馆学｜文化研究｜符号学｜种族研究｜林业
 
 
+
 <p align="center">
 ================深度交流================
 </p>
@@ -61,7 +62,7 @@ WikiScienceSystem  维基科学体系，普及科学体系，常识
 <p align="center">
   
 		 微信公众号(fenwii-tec)：分微科技
-		 头条，抖音：苏格拉底学堂
+		 头条，抖音： 鸭嘴兽工厂
 		 Github: https://github.com/fenwii
 		 微信小助理号：SocratesSchool
 		 教育小工具交流知识星球：苏格拉底学堂   https://t.zsxq.com/2Nj6UnY 
@@ -70,3 +71,4 @@ WikiScienceSystem  维基科学体系，普及科学体系，常识
 <p align="center">
 ================深度交流================
 </p>
+
